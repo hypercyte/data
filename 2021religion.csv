@@ -1,0 +1,51 @@
+
+"TS031 - Religion (detailed)"
+"ONS Crown Copyright Reserved [from Nomis on 26 April 2023]"
+"Population :","All usual residents"
+"Units      :","Persons"
+"Date       :","2021"
+
+"2022 local authorities: district","mnemonic","Christian","Hindu","Muslim","No religion"
+
+"Barking and Dagenham","E09000002",99342,6596,53389,41192
+"Barnet","E09000003",142321,22105,47688,78684
+"Bexley","E09000004",123908,7516,9721,82816
+"Brent","E09000005",131914,52876,72574,46153
+"Bromley","E09000006",159452,9644,10876,122943
+"Camden","E09000007",65980,3991,33830,72776
+"City of London","E09000001",2976,203,540,3762
+"Croydon","E09000008",190880,23145,40717,101120
+"Ealing","E09000009",138937,28236,68907,70230
+"Enfield","E09000010",153015,10231,61477,65242
+"Greenwich","E09000011",129112,11647,24715,94207
+"Hackney","E09000012",79499,1998,34578,94110
+"Hammersmith and Fulham","E09000013",83673,2209,21290,56059
+"Haringey","E09000014",103944,3529,33295,83537
+"Harrow","E09000015",88602,67392,41503,27748
+"Havering","E09000016",136765,6454,16135,80235
+"Hillingdon","E09000017",119434,33020,44077,59213
+"Hounslow","E09000018",110269,27360,48028,53502
+"Islington","E09000019",75129,2195,25840,88465
+"Kensington and Chelsea","E09000020",69335,1584,16865,35610
+"Kingston upon Thames","E09000021",71670,8456,13366,57642
+"Lambeth","E09000022",138714,3179,25871,119124
+"Lewisham","E09000023",131706,6459,22264,110379
+"Merton","E09000024",101320,12610,21673,60224
+"Newham","E09000025",123746,21405,122146,50794
+"Redbridge","E09000026",94473,34372,97068,39001
+"Richmond upon Thames","E09000027",88556,4184,8492,74076
+"Southwark","E09000028",133298,3444,29633,111932
+"Sutton","E09000029",95960,14666,14736,67769
+"Tower Hamlets","E09000030",69223,6298,123912,82635
+"Waltham Forest","E09000031",108630,5155,60157,77739
+"Wandsworth","E09000032",139656,6419,32519,118543
+"Westminster","E09000033",76245,4457,40873,52937
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas and counts perturbed"
+"","by small amounts. Small counts at the lowest geographies will be most"
+"","affected."
+"",""
+

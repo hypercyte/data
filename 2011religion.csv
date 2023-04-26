@@ -1,0 +1,77 @@
+
+"KS209EW - Religion"
+"ONS Crown Copyright Reserved [from Nomis on 26 April 2023]"
+"Population :","All usual residents"
+"Units      :","Persons"
+"Date       :","2011"
+"Rural Urban:","Total"
+
+"local authority: district / unitary (prior to April 2015)","mnemonic","Christian","Hindu","Muslim","No religion"
+
+"Barking and Dagenham","E09000002",104101,4464,25520,35106
+"Barnet","E09000003",146866,21924,36744,57297
+"Bexley","E09000004",144093,3547,5645,55995
+"Brent","E09000005",129080,55449,58036,33054
+"Bromley","E09000006",187656,4987,7841,80303
+"Camden","E09000007",74821,3141,26643,56113
+"City of London","E09000001",3344,145,409,2522
+"Croydon","E09000008",205022,21739,29513,72654
+"Ealing","E09000009",148055,28915,53198,50848
+"Enfield","E09000010",167417,10927,52141,48522
+"Greenwich","E09000011",134632,9087,17349,65034
+"Hackney","E09000012",95131,1577,34727,69454
+"Hammersmith and Fulham","E09000013",98808,2097,18242,43487
+"Haringey","E09000014",114659,4539,36130,64202
+"Harrow","E09000015",89181,60407,29881,22871
+"Havering","E09000016",155597,2963,4829,53549
+"Hillingdon","E09000017",134813,22033,29065,46492
+"Hounslow","E09000018",106660,26261,35666,40351
+"Islington","E09000019",82879,2108,19521,61911
+"Kensington and Chelsea","E09000020",86005,1386,15812,32669
+"Kingston upon Thames","E09000021",84684,7502,9474,41183
+"Lambeth","E09000022",160944,3119,21500,84803
+"Lewisham","E09000023",145588,6562,17759,75155
+"Merton","E09000024",111993,12203,16262,41231
+"Newham","E09000025",123119,26962,98456,29373
+"Redbridge","E09000026",102755,31699,64999,30691
+"Richmond upon Thames","E09000027",103319,3051,6128,53195
+"Southwark","E09000028",151462,3668,24551,77098
+"Sutton","E09000029",111086,8038,7726,46817
+"Tower Hamlets","E09000030",68808,4200,87696,48648
+"Waltham Forest","E09000031",124939,5917,56541,46462
+"Wandsworth","E09000032",162590,6496,24746,82740
+"Westminster","E09000033",97877,4178,40073,44542
+
+
+
+"","In order to protect against disclosure of personal information, records"
+"","have been swapped between different geographic areas. Some counts will"
+"","be affected, particularly small counts at the lowest geographies"
+"",""
+
+"","The voluntary question on religion in the 2011 Census was intended to capture"
+"","people's religious affiliation and identification at the time of the Census"
+"","irrespective of whether they practised or believed in that religion or how"
+"","important it was in their lives.  If a person had no religion then the"
+"","first"
+"","of a series of tick boxes could be selected.  Care should be taken when"
+"","using"
+"","these data not to infer, or allow the inference by others, that the"
+"","practice"
+"","of a religion or specific religious activities that are expected of"
+"","believers"
+"","has been measured.  Unlike other census questions where missing answers are"
+"","imputed, this question was voluntary, and where no answer was provided the"
+"","response is categorised as 'not stated'."
+"",""
+
+"","Due to an error in the processing of census data, the number of usual"
+"","residents"
+"","in the 'Religion not stated' category has been overestimated by a total of"
+"","62,000 for three"
+"","local authorities: Camden, Islington and Tower Hamlets. More information"
+"","from"
+"",""
+"","http://www.ons.gov.uk/ons/guide-method/census/2011/census-data/census-products--issues-and-corrections/index.html"
+"",""
+
